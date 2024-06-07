@@ -5,5 +5,4 @@ print("Lokesh")
 print("Lokesh")
 print("Lokesh")
 print(2+2)
-print(2-2)
-print(2*2)
+
